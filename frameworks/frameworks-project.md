@@ -16,5 +16,6 @@ The best way to actually learn something is to _use_ it! We've directed you to b
 Submit a solution with a pull request to this [file](https://github.com/TheOdinProject/javascript_curriculum/blob/master/frameworks/frameworks-project.md) on the Javascript Curriculum github repository. See the section on [Contributing](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md) for how.
 
 - Add your solution below this line! (Be sure to specify which framework and project you've completed!)
+* [0zra's Library](https://github.com/0zra/my_library) - [Live](https://aqueous-ridge-48085.herokuapp.com/)
 * [Devon's React todo-list solution](https://github.com/defitjo/react-todo-app)
 * [Alexfuro's React book-library solution](https://github.com/alexfuro/odin-books-react)
